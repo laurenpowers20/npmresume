@@ -1,0 +1,27 @@
+{
+  "name": "Lauren Powers",
+  "website": "https://laurenpowers20.github.io/",
+  "linkedin": "https://www.linkedin.com/in/lauren-powers20/",
+  "github": "https://github.com/laurenpowers20",
+  "email": "lauren.powers20@gmail.com",
+  "resume": " ",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "CSS",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Cooking Mexican food",
+      "Traveling far and wide",
+      "Embroidery"
+  ]
+}
